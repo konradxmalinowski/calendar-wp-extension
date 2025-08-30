@@ -197,7 +197,7 @@ function calendar_countdown_script()
 					} else if (distance < 60000) {
 						let minutes = Math.floor(distance / (1000 * 60));
 						let seconds = Math.floor((distance % (1000 * 60)) / 1000);
-						timerElem.innerHTML = "Kończy się za " + minutes + "m " + seconds + "s";
+						timerElem.innerHTML = minutes + "m " + seconds + "s";
 					} else {
 						let days = Math.floor(distance / (1000 * 60 * 60 * 24));
 						let hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
