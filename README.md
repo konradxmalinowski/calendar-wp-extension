@@ -3,7 +3,7 @@
 > **Countdown to the nearest event in Hurry Timer style with multiple countdowns support and automatic year change.**
 
 [![WordPress](https://img.shields.io/badge/WordPress-Plugin-blue.svg)](https://wordpress.org/)
-[![License](https://img.shields.io/badge/License-GPL%20v2-green.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+[![License](https://img.shields.io/badge/License-GPL%20v2.0-green.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 [![Version](https://img.shields.io/badge/Version-1.5-orange.svg)](https://github.com/konradxmalinowski/calendar-wp-extension)
 
 ## ✨ Features
@@ -94,6 +94,13 @@ All shortcodes without offset show the same event.
 - ✅ Rate limiting for AJAX requests
 - ✅ SQL injection protection via WordPress Query API
 - ✅ XSS protection with proper escaping
+
+### Licensing & Compliance
+
+- ✅ **GPL v2.0 compliant** - Full WordPress compatibility
+- ✅ **Open source** - Source code freely available
+- ✅ **Freedom preserving** - Users can modify and distribute
+- ✅ **WordPress ecosystem** - Follows WordPress licensing standards
 
 ### File Structure
 
@@ -193,7 +200,39 @@ We welcome contributions! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the **GPL v2** License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **GNU General Public License v2.0 (GPL v2.0)** - see the [LICENSE](LICENSE) file for details.
+
+### 🔓 What GPL v2.0 Means
+
+**GPL v2.0** is a free software license that ensures your freedom to:
+
+- ✅ **Use** the software for any purpose
+- ✅ **Study** how the software works
+- ✅ **Modify** the software to suit your needs
+- ✅ **Distribute** copies of the software
+- ✅ **Distribute** modified versions of the software
+
+### 📋 Key Requirements
+
+When you modify or distribute this plugin, you must:
+
+1. **Keep it open source** - Modified versions must also be under GPL v2.0
+2. **Include source code** - Make the source code available to users
+3. **State changes** - Document any modifications you make
+4. **Preserve copyright** - Keep original copyright notices
+
+### 🌐 Why GPL v2.0 for WordPress?
+
+- **WordPress compatibility** - WordPress itself is GPL v2.0
+- **Plugin ecosystem** - Most WordPress plugins use GPL
+- **Freedom protection** - Ensures the plugin stays open source
+- **Community standard** - What WordPress users expect
+
+### 📚 Learn More
+
+- [GPL v2.0 Full Text](https://www.gnu.org/licenses/gpl-2.0.html)
+- [GPL v2.0 FAQ](https://www.gnu.org/licenses/gpl-2.0-faq.html)
+- [WordPress Licensing](https://wordpress.org/about/license/)
 
 ## 👨‍💻 Author
 
