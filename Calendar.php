@@ -142,7 +142,7 @@ function calendar_countdown_shortcode($atts)
 
 		return '<div id="' . esc_attr($uid) . '" class="calendar-countdown" data-datetime="' . esc_attr($datetime) . '" data-event-id="' . esc_attr($event_id) . '" style="text-align:center; font-family:Arial,sans-serif; max-width:400px; margin:auto; padding:20px; background:#fff; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
 			<h3 style="margin-bottom:15px; font-size:24px; color:#2a2b4a;">' . esc_html($title) . '</h3>
-			<div class="countdown-timer" style="font-size:32px; font-weight:bold; color:#2a2b4a;"></div>
+			<div class="countdown-timer" style="font-size:28px; font-weight:bold; color:#2a2b4a;"></div>
 		</div>';
 	} else {
 		return '<p>Brak nadchodzących wydarzeń.</p>';
